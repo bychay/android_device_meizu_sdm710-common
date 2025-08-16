@@ -8,7 +8,7 @@ BOARD_VENDOR := meizu
 
 BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 
-COMMON_PATH := device/meizu/sdm845-common
+COMMON_PATH := device/meizu/sdm710-common
 
 # Architecture
 TARGET_ARCH := arm64
